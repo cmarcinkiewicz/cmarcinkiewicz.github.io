@@ -1,11 +1,72 @@
-body {
-	background-color:#39B8FF;
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+@import url(https://fonts.googleapis.com/css?family=Nixie+One);
+
+*{
+	color: #515252;
+	padding:0;
+	margin:0;
 }
 
-h1{font-weight: bold;}
-h1,p {text-align: center; }
+header {
+	background-color:#66c4ff;
+	padding:30px;
+}
 
-h1,p,ul {color:#515252;}
-{font-family: "Courier New", Courier, monospace}
 
-#slogan{font-weight: bold}
+h1{
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+  color:#515252;
+  font-size:40px;
+}
+
+#slogan{
+	font-weight: bold;
+	font-size:25px;
+}
+
+ body {
+	background-color:#b3e1ff;
+	line-height: 1.5em;
+	color:#515252;
+	font-family: 'Nixie One', cursive;
+}
+
+
+h2{
+	font-weight:normal;
+	font-size: 16px
+}
+
+p {
+	text-align: center;
+}
+
+img{
+	width: 100%
+}
+
+nav a {
+   text-transform: none;
+   font-size: 25px;
+   margin-right: 15px;
+  }
+
+ nav{
+ 	padding:40px;
+ 	text-decoration: none;
+ }
+
+footer{
+	background-color:#66c4ff;
+	text-align:center;
+	font-size:12px;
+	padding:20px;
+
+}
+
+section {
+	padding:20px;
+	line-height:1.5em;
+}
+
