@@ -1,11 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Special+Elite);
 @import url(https://fonts.googleapis.com/css?family=Nixie+One);
 
-*{
-	color: #515252;
-	padding:0;
-	margin:0;
-}
+
 
 header {
 	background-color:#66c4ff;
