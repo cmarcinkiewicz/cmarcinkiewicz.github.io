@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+@import url(https://fonts.googleapis.com/css?family=Nixie+One);
+
+
+
+header {
+	background-color:#FFED74;
+	padding:30px;
+}
+
+
+h1{
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+  color:#515252;
+  font-size:40px;
+}
+
+#slogan{
+	font-weight: bold;
+	font-size:25px;
+}
+
+ body {
+	background-color:#b3e1ff;
+	line-height: 1.5em;
+	color:#515252;
+	font-family: 'Nixie One', cursive;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 3px black solid;
+}
+
+.splash {
+	background-color: #ffC675;
+}
+
+h2{
+	font-weight:normal;
+	font-size: 16px
+}
+
+p {
+	text-align: center;
+}
+
+img{
+	width: 100%
+}
+
+#two_column{
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 62%;
+}
+
+#right{
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
+
+.clearfix:after{
+	visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+nav a {
+   text-transform: none;
+   font-size: 25px;
+  }
+
+ nav{
+ 	display: block;
+ 	background-color: #E8C66A;
+ 	padding: 40px;
+ 	border: 1px black dotted;
+ 	text-decoration: none;
+ }
+
+footer{
+	background-color:#FF957E;
+	text-align:center;
+	font-size:12px;
+	padding:20px;
+
+
+
